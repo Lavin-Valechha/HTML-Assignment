@@ -39,7 +39,7 @@
 
         <h2>Introduction Video</h2>
         <video controls>
-            <source src="[path_to_intro_video.mp4](https://github.com/Lavin-Valechha/HTML-Assignment/blob/d1a487c461df7cdabef462f0a458c58a3e5a3802/videoplaybackpuneet.mp4)" type="video/mp4">
+            <source src="https://github.com/Lavin-Valechha/HTML-Assignment/blob/d1a487c461df7cdabef462f0a458c58a3e5a3802/videoplaybackpuneet.mp4" type="video/mp4">
            
         </video>
 
@@ -47,7 +47,7 @@
         <table>
             <tr>
                 <th>Email</th>
-                <td><a href="mailto:lavin@example.com">2021.lavin.valechha@ves.ac.in</a></td>
+                <td><a href="2021.lavin.valechha@ves.ac.in">2021.lavin.valechha@ves.ac.in</a></td>
             </tr>
             <tr>
                 <th>LinkedIn</th>
