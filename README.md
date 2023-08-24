@@ -16,7 +16,7 @@
     </header>
 
     <div class="container">
-        <img src="path_to_your_photograph.jpg" alt="Lavin's Photo">
+        <img src="https://github.com/Lavin-Valechha/HTML-Assignment/blob/main/puneet%20superstar%20image.png?raw=true" alt="Lavin's Photo">
 
         <h2>About Me</h2>
         <p>
