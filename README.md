@@ -12,7 +12,7 @@
         <h2>About Me</h2>
         <p>
             Hi, I'm Lavin Valechha, a third-year engineering student with a passion for software development.
-            Despite having limited professional experience, I'm enthusiastic about learning and applying new technologies.
+            Despite having limited professional experience, I'm enthusiastic about learning and applying new technologies.hdsfn
         </p>
         
         <h2>Skills</h2>
